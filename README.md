@@ -2,9 +2,6 @@
 <h1 align="center">Hi there,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Yash Diwaker</h1>
 
 - 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I love to watch Anime and listen music.
 
 - 💬 Ask me about **anything you want**
 
@@ -52,8 +49,7 @@
 </table>
 
 <br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobCoderY&theme=aura&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats" ></p>
-</br>
+
 
 
 <h1 align="center">Github Stats</h1>
@@ -64,6 +60,8 @@
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+
   
 
 
