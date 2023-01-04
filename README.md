@@ -66,7 +66,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NoobCoderY&theme=aura&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats" alt="" />
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=NoobCoderY&theme=tokyonight"></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesak&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NoobCoderY&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
