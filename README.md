@@ -1,5 +1,5 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h1 align="center">Hi there,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Saksham Verma</h1>
+<h1 align="center">Hi there,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Yash Diwaker</h1>
 
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate with other content creators
@@ -58,14 +58,14 @@
 </table>
 
 <br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesak&theme=aura&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats" ></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobCoderY&theme=aura&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats" ></p>
 </br>
 
 
 <h1 align="center">Github Stats</h1>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codesak&theme=aura&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats" alt="" />
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=codesak&theme=tokyonight"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NoobCoderY&theme=aura&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats" alt="" />
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=NoobCoderY&theme=tokyonight"></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesak&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
