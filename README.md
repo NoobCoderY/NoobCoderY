@@ -10,19 +10,15 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<a href="https://www.instagram.com/sakshamexo/">
-  <img align="left" alt= "Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+
 
 <a href="https://twitter.com/itzclyro">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/31sud5fwwmbd76zom7m2saatbzma">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-color-tal-revivo.png" />
-</a>
 
-<a href="https://www.linkedin.com/in/saksham-v-9a1426120/">
+
+<a href="https://www.linkedin.com/in/yashdiwaker/">
   <img align="left" alt="Twitter" width="22px" src="https://user-images.githubusercontent.com/95493355/210089546-7cefb906-7c5f-4677-b37d-6020b902f8dc.png" />
 </a>
 
